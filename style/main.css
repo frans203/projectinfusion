@@ -416,7 +416,9 @@ body {
     list-style-type: none;
     max-width: 700px;
   }
-
+  .laptop-slider .slide-show {
+    padding-right: 0;
+  }
   .header__nav li a {
     /* width: 200px; */
     background-color: white;
