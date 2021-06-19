@@ -36,7 +36,8 @@ body {
 .laptop-slider .slide-show {
   position: relative;
   margin: auto;
-  width: 100%;
+  padding-right: 60px;
+  width: 90%;
   max-width: 900px;
 }
 .js .laptop-slider figure {
